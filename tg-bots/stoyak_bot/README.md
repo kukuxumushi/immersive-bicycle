@@ -1,4 +1,5 @@
-# ctftinderbot
+# stoyak
+
 
 Simple bot for checking if the site is up.
 
